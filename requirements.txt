@@ -1,0 +1,14 @@
+ultralytics==8.2.90
+opencv-python==4.10.0.84
+numpy==1.26.4
+torch>=2.1.0
+torchvision>=0.16.0
+streamlit
+fastapi
+uvicorn
+pydantic
+starlette
+cvzone
+ipykernel
+supervision
+python-multipart
